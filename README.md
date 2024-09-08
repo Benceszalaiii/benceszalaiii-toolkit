@@ -47,6 +47,7 @@ Hightlights `//TODO` and `//FIXME` comments
 Improves the visuals of comments
 
 Preview:
+
 ![Better Comments preview](https://raw.githubusercontent.com/aaron-bond/better-comments/084a906e73a3ca96d5319441714be8e3a2a8c385/images/better-comments.PNG)
 
 ### [Animations](https://marketplace.visualstudio.com/items?itemName=BrandonKirbyson.vscode-animations)
