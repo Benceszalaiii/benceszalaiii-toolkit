@@ -4,6 +4,9 @@
   "description": "An essential extension pack that can be helpful with most languages",
   "version": "0.0.1",
   "publisher": "benceszalaiii",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/benceszalaiii/benceszalaiii-toolkit"},
   "engines": {
     "vscode": "^1.93.0"
   },
