@@ -2,18 +2,19 @@
   "name": "benceszalaiii-toolkit",
   "displayName": "Benceszalaiii's toolkit",
   "description": "An essential extension pack that can be helpful with most languages",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "benceszalaiii",
   "repository": {
     "type": "git",
-    "url": "https://www.github.com/benceszalaiii/benceszalaiii-toolkit"},
+    "url": "https://www.github.com/benceszalaiii/benceszalaiii-toolkit"
+  },
   "engines": {
     "vscode": "^1.93.0"
   },
   "categories": [
     "Extension Packs"
   ],
-  "extensionPack": [ 
+  "extensionPack": [
     "adpyke.codesnap",
     "GitHub.copilot",
     "GitHub.copilot-chat",
