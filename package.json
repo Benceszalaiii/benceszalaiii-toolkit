@@ -11,6 +11,17 @@
     "Extension Packs"
   ],
   "extensionPack": [ 
-    "publisher.extensionName"
+    "adpyke.codesnap",
+    "GitHub.copilot",
+    "GitHub.copilot-chat",
+    "eamodio.gitlens",
+    "johnpapa.vscode-peacock",
+    "wayou.vscode-todo-highlight",
+    "aaron-bond.better-comments",
+    "drcika.apc-extension",
+    "BrandonKirbyson.vscode-animations",
+    "wmaurer.change-case",
+    "huytd.tokyo-city",
+    "Yummygum.city-lights-icon-vsc"
   ]
 }
